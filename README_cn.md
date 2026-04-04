@@ -1,6 +1,6 @@
 # 到没到后端
 
-[English](https://github.com/sakura0224/Arrived-or-Not-Backend/README.md)
+[English](README.md)
 
 ## 项目简介
 
