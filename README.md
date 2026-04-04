@@ -1,6 +1,6 @@
 # Arrived or Not Backend
 
-[中文](https://github.com/sakura0224/Arrived-or-Not-Backend/README_cn.md)
+[中文](README_cn.md)
 
 ## Project Overview
 
